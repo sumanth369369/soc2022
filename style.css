@@ -149,8 +149,7 @@
   }
   
   .card {
-    margin-left: 10vh;
-    width: 100%;
+    width: 90%;
     height: 100%;
     position: absolute;
     border-radius: 20px;
