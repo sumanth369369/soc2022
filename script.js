@@ -25,7 +25,7 @@ let cardCount = 0;
 // functions
 function appendNewCard() {
   const card = new Card({
-    imageUrl: urls[cardCount % 20],
+    imageUrl: urls[cardCount % 12],
     onDismiss: appendNewCard,
     onLike: () => {
       like.style.animationPlayState = 'running';
