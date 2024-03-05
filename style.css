@@ -55,7 +55,7 @@
   /*	IF THE USERS PREFERS REDUCED MOTION
           PRESENT THEM WITH A HOROZONTAL LIST
           OF ALL ELEMENTS AND GIVE THEM THE
-          OPTION TO MANUALLY SCROLL BY SWIPING
+          OPTION TO MANUALLY SCROLL BY SWIPINGhe
   */
   @media (prefers-reduced-motion) {
       .tag-list {
@@ -149,7 +149,7 @@
   }
   
   .card {
-    width: 90%;
+    width: 100%;
     height: 100%;
     position: absolute;
     border-radius: 20px;
